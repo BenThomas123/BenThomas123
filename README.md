@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BenThomas123
-- 👀 I’m interested in ... Database development
-- 🌱 I’m currently learning ... java script and graphs
+- 👀 I’m interested in ... solving IPv6 issues on the IoT
+- 🌱 I’m currently learning ... Operating System Development
 - 💞️ I’m looking to collaborate on ... TBA
-- 📫 How to reach me ... email: bent27284@gmail.com discord: benthomas213
+- 📫 How to reach me ... email: brt1030@unh.edu discord: benthomas213
 
 <!---
 BenThomas123/BenThomas123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
