@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenThomas123
-- 👀 I’m interested in ... solving IPv6 issues on the IoT
+- 👀 I’m interested in ... Solving IPv6 issues on the IoT
 - 🌱 I’m currently learning ... Operating System Development
 - 💞️ I’m looking to collaborate on ... TBA
 - 📫 How to reach me ... email: brt1030@unh.edu discord: benthomas213
